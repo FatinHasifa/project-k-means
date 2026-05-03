@@ -17,7 +17,7 @@ Project ini bertujuan untuk melakukan segmentasi pelanggan berdasarkan atribut R
 4. Clustering menggunakan K-Means
 5. Evaluasi dan visualisasi hasil
 
-## ** Output**
+## **Output**
 - Segmentasi pelanggan ke dalam beberapa cluster
 - Insight perilaku pelanggan berdasarkan cluster
 
