@@ -11,7 +11,7 @@ Project ini bertujuan untuk melakukan segmentasi pelanggan berdasarkan atribut R
 - Matplotlib
 
 ## **Tahapan Analisis**
-1. Data preprocessing
+1. Data Preprocessing
 2. Perhitungan variabel RFM
 3. Normalisasi data
 4. Clustering menggunakan K-Means
