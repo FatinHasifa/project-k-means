@@ -18,7 +18,7 @@ Project ini bertujuan untuk melakukan segmentasi pelanggan berdasarkan atribut R
 5. Evaluasi dan visualisasi hasil
 
 ## **Output**
-- Segmentasi pelanggan ke dalam beberapa cluster
+- Segmentasi pelanggan kedalam beberapa cluster
 - Insight perilaku pelanggan berdasarkan cluster
 
 ## **Tujuan**
